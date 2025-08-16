@@ -1,7 +1,13 @@
-<h2>Hi, I'm Israel Trejo 😎</h2>
-<p>Passionate programmer obsessed with <strong>Software Engineering</strong>, <strong>Data Science</strong>, and <strong>AI Research</strong>
-<br>Interested in turning real-world data into actionable insights through Machine Learning and Deep Learning to build intelligent systems to discover and predict trends, and have those findings on display</p>
-<p>Currently a Computer Science Undergrad Student from the University of Houston Main Campus. <br>Looking to collaborate on eye-opening projects</p>
+<h2>Hi, I'm Israel Trejo 😎✌️</h2>
+<p>
+  Passionate programmer obsessed with <strong>Software Engineering</strong>, <strong>Data Science</strong>, and <strong>AI Research</strong>
+  <br>Interested in turning real-world data into actionable insights through Machine Learning and Deep 
+  <br>Learning to build intelligent systems to discover and predict trends, and have those findings on display
+</p>
+<p>
+  Currently a Computer Science Undergrad Student from the University of Houston Main Campus.
+  <br>Looking to collaborate on eye-opening projects
+</p>
 
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
