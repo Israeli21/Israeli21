@@ -4,19 +4,25 @@
 <p>Currently a Computer Science Undergrad Student from the University of Houston Main Campus. <br>Looking to collaborate on eye-opening projects</p>
 
 <p>
-<!--   <img src="https://cdn3.iconfinder.com/data/icons/web-ui-3/128/Mail-2-512.png" width="18" height="18" alt="Email Icon" style="vertical-align: middle; margin-right: 5px;"> -->
-  <strong>📧 Email:</strong> <a href="mailto:isrtrejo07@gmail.com"><ins>isrtrejo07@gmail.com</ins></a>
-<!--   LinkedIn: https://www.linkedin.com/in/israel-trejo-2863a8226/ -->
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" 
+     alt="Gmail" 
+     style="height: 1em; vertical-align: middle;">
+  &nbsp;<strong>Email:</strong> <a href="mailto:isrtrejo07@gmail.com"><ins>isrtrejo07@gmail.com</ins></a>
 </p>
 
-<p><strong>🔗 LinkedIn:</strong> https://www.linkedin.com/in/israel-trejo-2863a8226/</p>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; vertical-align: middle">
+  &nbsp;<strong>LinkedIn:</strong> https://www.linkedin.com/in/israel-trejo-2863a8226/
+</p>
 
 <p><br>
   🐍 Python&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height: 1em; vertical-align: middle;"> C++/C&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height: 1em; vertical-align: middle;"> JavaScript&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" style="height: 1em; vertical-align: middle;"> React&nbsp;&nbsp;&nbsp; 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="height: 1em; vertical-align: middle;"> SQL
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Farm-Fresh_database_red.png"
+     alt="SQL"
+     style="height:1em; vertical-align:middle; margin-right:6px;">SQL
 </p>
 
 <!---
