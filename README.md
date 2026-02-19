@@ -41,7 +41,6 @@
     📊 SQL
   </p>
 
-  
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" style="height: 1em; vertical-align: middle;"> Python&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height: 1em; vertical-align: middle;"> C++/C&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" style="height: 1em; vertical-align: middle;"> JavaScript&nbsp;&nbsp;&nbsp;
