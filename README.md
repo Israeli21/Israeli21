@@ -20,7 +20,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/960px-LinkedIn_logo_initials.png" alt="LinkedIn" style="height: 1em; vertical-align: middle">
   &nbsp;<strong>LinkedIn:</strong> https://www.linkedin.com/in/israel-trejo-2863a8226/
 </p>
- 
+  
 <p><br>
   🐍 Python&nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" style="height: 1em; vertical-align: middle;"> C++/C&nbsp;&nbsp;&nbsp;
