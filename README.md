@@ -1,6 +1,6 @@
 <h2>Hi, I'm Israel Trejo 😎✌️</h2>
-
-<p>
+ 
+<p> 
   Passionate programmer obsessed with <strong>Software Engineering</strong>, <strong>Data Science</strong>, and <strong>AI Research</strong>
   <br>Interested in turning real-world data into actionable insights through Machine Learning and Deep 
   <br>Learning to build intelligent systems to discover and predict trends, and have those findings on display
